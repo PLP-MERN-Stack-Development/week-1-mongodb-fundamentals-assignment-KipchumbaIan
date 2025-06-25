@@ -1,0 +1,147 @@
+[{
+  "_id": {
+    "$oid": "68593a07b363ee62b26c4bd0"
+  },
+  "title": "The 2 Rivers",
+  "auther": "kim",
+  "pages": 800
+},
+{
+  "_id": {
+    "$oid": "68593cf14694ee5f92e11d8d"
+  },
+  "tittle": "The Perl",
+  "pages": 245,
+  "auther": "Muthoni",
+  "in_stoke": "True"
+},
+{
+  "_id": {
+    "$oid": "685951f3b363ee62b26c4bd1"
+  },
+  "title": "The Silent Patient",
+  "author": "Alex Michaelides",
+  "genre": "Thriller",
+  "published_year": 2019,
+  "price": 15.99,
+  "in_stock": true,
+  "pages": 336,
+  "publisher": "Celadon Books"
+},
+{
+  "_id": {
+    "$oid": "685951f3b363ee62b26c4bd2"
+  },
+  "title": "Educated",
+  "author": "Tara Westover",
+  "genre": "Memoir",
+  "published_year": 2018,
+  "price": 12.99,
+  "in_stock": true,
+  "pages": 352,
+  "publisher": "Random House"
+},
+{
+  "_id": {
+    "$oid": "685951f3b363ee62b26c4bd3"
+  },
+  "title": "Dune",
+  "author": "Frank Herbert",
+  "genre": "Science Fiction",
+  "published_year": 1965,
+  "price": 10.5,
+  "in_stock": false,
+  "pages": 412,
+  "publisher": "Chilton Books"
+},
+{
+  "_id": {
+    "$oid": "685951f3b363ee62b26c4bd4"
+  },
+  "title": "Becoming",
+  "author": "Michelle Obama",
+  "genre": "Memoir",
+  "published_year": 2018,
+  "price": 14.99,
+  "in_stock": true,
+  "pages": 448,
+  "publisher": "Crown"
+},
+{
+  "_id": {
+    "$oid": "685951f3b363ee62b26c4bd5"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "genre": "Dystopian",
+  "published_year": 1949,
+  "price": 9.99,
+  "in_stock": true,
+  "pages": 328,
+  "publisher": "Secker & Warburg"
+},
+{
+  "_id": {
+    "$oid": "685951f3b363ee62b26c4bd6"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "genre": "Fantasy",
+  "published_year": 1937,
+  "price": 11.99,
+  "in_stock": true,
+  "pages": 310,
+  "publisher": "George Allen & Unwin"
+},
+{
+  "_id": {
+    "$oid": "685951f3b363ee62b26c4bd7"
+  },
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "genre": "Fiction",
+  "published_year": 1988,
+  "price": 8.99,
+  "in_stock": false,
+  "pages": 208,
+  "publisher": "HarperTorch"
+},
+{
+  "_id": {
+    "$oid": "685951f3b363ee62b26c4bd8"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "genre": "Classic",
+  "published_year": 1925,
+  "price": 7.99,
+  "in_stock": true,
+  "pages": 180,
+  "publisher": "Charles Scribner's Sons"
+},
+{
+  "_id": {
+    "$oid": "685951f3b363ee62b26c4bd9"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "genre": "Classic",
+  "published_year": 1960,
+  "price": 9.5,
+  "in_stock": true,
+  "pages": 281,
+  "publisher": "J.B. Lippincott & Co."
+},
+{
+  "_id": {
+    "$oid": "685951f3b363ee62b26c4bda"
+  },
+  "title": "Sapiens",
+  "author": "Yuval Noah Harari",
+  "genre": "Non-Fiction",
+  "published_year": 2011,
+  "price": 13.99,
+  "in_stock": true,
+  "pages": 443,
+  "publisher": "Harvill Secker"
+}]
